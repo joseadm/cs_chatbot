@@ -40,7 +40,6 @@ Key features:
   ```
 - Install backend deps:
   ```bash
-  cd /Users/jmatamoros/Desktop/AI/cs_chatbot
   ./venv/bin/python -m pip install -r requirements.txt
   ```
 
